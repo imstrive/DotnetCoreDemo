@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DockerDeploy</name>
+    </assembly>
+    <members>
+        <member name="M:DockerDeploy.Controllers.EmployeeController.GetByID(System.Int32)">
+            <summary>
+            员工查询
+            </summary>
+            <param name="id">员工ID</param>
+            <returns></returns>
+        </member>
+        <member name="M:DockerDeploy.Controllers.EmployeeController.GetByID(System.DateTime)">
+            <summary>
+            员工查询
+            </summary>
+            <param name="dateOfBirth">员工生日</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
